@@ -1,4 +1,8 @@
+<<<<<<< HEAD:Pokemon.java
 
+=======
+package PokemonGame;
+>>>>>>> origin/main:PokemonGame/Pokemon.java
 import java.io.*;
 import static java.lang.System.*;
 import java.util.Scanner;
