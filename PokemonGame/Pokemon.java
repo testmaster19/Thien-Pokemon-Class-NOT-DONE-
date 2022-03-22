@@ -1,3 +1,4 @@
+package PokemonGame;
 import java.io.*;
 import static java.lang.System.*;
 import java.util.Scanner;

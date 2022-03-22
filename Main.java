@@ -2,6 +2,8 @@ import java.io.*;
 import static java.lang.System.*;
 import java.util.Scanner;
 
+import PokemonGame.Pokemon;
+
 
 class Main {
   public static void main(String[] args) {
