@@ -1,3 +1,4 @@
+
 import java.io.*;
 import static java.lang.System.*;
 import java.util.Scanner;
@@ -17,6 +18,9 @@ public class Pokemon {
   private int Health; 
   private int ATTACK;
   private int DEFENSE; 
+	private int Poop;
+	private double speed;
+	private double fight;
   //private String Conditioning; //decision string in Main.java "Y" || "N"
 
   //Private Modes
